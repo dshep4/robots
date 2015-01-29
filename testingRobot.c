@@ -54,7 +54,7 @@ void findLine (int rotation)
 
 	lineFound = rotateLeft(rotation);
 	if (!lineFound)
-			powerOff();
+		powerOff();
 
 }
 
